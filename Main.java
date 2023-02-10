@@ -1,5 +1,8 @@
 package liskov;
 
+import inversionDependencia.*;
+import inversionDependencia.Persona;
+
 public class Main {
     public static void main(String[] args){
         Adulto adulto=new Adulto("1123","Luis","Penagos","visa","manzana");
